@@ -1,7 +1,5 @@
 # prompt: using these models file create a gui interface and streamlit app
 
-!pip install streamlit
-
 %%writefile app.py
 import streamlit as st
 import joblib
